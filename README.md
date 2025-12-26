@@ -1,5 +1,5 @@
 # Global Suicide Rate Analysis & Prediction
-### Intelligent Data Science (IDS) Project
+### Introduction To Data Science (IDS) Project
 
 ---
 
